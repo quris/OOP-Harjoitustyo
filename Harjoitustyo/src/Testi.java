@@ -10,6 +10,7 @@ public class Testi {
 			System.out.println(Janne);
 		}
 		String Nexus = Janne;
+		System.out.println(Nexus);
 
 	}
 
