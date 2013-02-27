@@ -8,9 +8,8 @@ public class Testi {
 		String Janne = "Syöpä";
 		for(int i=0; i<9; i++){
 			System.out.println(Janne);
-			System.out.println(Janne);
 		}
-		String Nexus;
+		String Nexus = Janne;
 
 	}
 
