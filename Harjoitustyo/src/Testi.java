@@ -9,7 +9,6 @@ public class Testi {
 		for(int i=0; i<9; i++){
 			System.out.println(Janne);
 			System.out.println(Janne);
-			Janne = "Syöb";
 		}
 
 	}
