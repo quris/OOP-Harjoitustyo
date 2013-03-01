@@ -6,6 +6,8 @@ public class Testi {
 	 */
 	public static void main(String[] args) {
 		System.out.print("BÄRÄB");
+		System.out.print("bärbär2");
+		
 
 	}
 
